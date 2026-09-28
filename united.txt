@@ -1,8 +1,0 @@
-users post likh payanga
-users create karana hai
-login and register
-logout
-post creation
-post like
-post edit
-post delete
